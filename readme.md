@@ -31,7 +31,7 @@ Just download the zip file then go to wordpress Dashboard>>Plugins>Add new plugi
 
 
 3. You can Insert ,update, Delete data using wordpress Admin and also exchnage rate will auto update using API
-![](images/Input.JPG.JPG)
+![](images/Input.JPG)
 
 4. After insert data see above section where you can find a shortcode like "[fx-table-long]" and "[fx-table-short]" then just copy paste the shortcode 
 anywhere in your pages or posts.
