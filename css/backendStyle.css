@@ -1,0 +1,33 @@
+/* Back-End stylesheet add here */
+
+#adminmain{
+
+	padding: 20% 30%;
+}
+
+#btnadmin{
+padding: 8px;
+color: black;
+font-size: 20px;
+font-weight: 400;
+font-family: time new roman;
+border-radius: 5px;
+background-color: white;
+position: relative;
+
+}
+
+#btnadmin a{
+text-decoration: none;
+color: black;
+
+}
+
+
+
+
+#btnadmin:hover{
+background-color: whitesmoke;
+color: green;
+
+}
