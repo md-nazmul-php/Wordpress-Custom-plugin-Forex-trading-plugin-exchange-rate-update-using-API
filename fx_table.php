@@ -2,11 +2,11 @@
 /*
 Plugin Name: FX Table
 Plugin URI: https://www.upwork.com/fl/mdnazmul62
-Version: 1.2.0
+Version: 1.3.0
 Description: This plugin use to build custom forex currency conversion data table.
 Author: Md Nazmul
-Author URI: https://www.upwork.com/fl/mdnazmul62
-License: GPL2
+Author URI: https://deshonlineit.com
+License: GPL3.0
 */
 
 
